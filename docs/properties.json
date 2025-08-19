@@ -21,16 +21,17 @@
         "Borehole"
       ],
       "images": [
-        "https://cdn.example.com/imgs/p000123-1.jpg",
-        "https://cdn.example.com/imgs/p000123-2.jpg"
+        "https://shadowhunter-94-web.github.io/Fouche_Properties/properties-images/p-000124/1755606115416-0-property-7799786-5161596_e.jpg",
+        "https://shadowhunter-94-web.github.io/Fouche_Properties/properties-images/p-000124/1755606115416-1-property-7799786-55586019_dhd.jpg",
+        "https://shadowhunter-94-web.github.io/Fouche_Properties/properties-images/p-000124/1755606115416-2-property-7799786-83993133_e.jpg"
       ],
-      "primary_image": "",
+      "primary_image": "https://shadowhunter-94-web.github.io/Fouche_Properties/properties-images/p-000124/1755606115416-0-property-7799786-5161596_e.jpg",
       "description": "Beautiful family home with sunny living areas and modern kitchen. Walk to schools and lake.",
       "agent_name": "Ayesha Patel",
-      "agent_phone": "+27 82 555 0123",
-      "agent_email": "ayesha@example.com",
+      "agent_phone": 27835817124,
+      "agent_email": "ahmed@ixloo.co.za",
       "price_num": 3450000,
-      "cover_image": "https://cdn.example.com/imgs/p000123-1.jpg"
+      "cover_image": "https://shadowhunter-94-web.github.io/Fouche_Properties/properties-images/p-000124/1755606115416-0-property-7799786-5161596_e.jpg"
     },
     {
       "id": "P-000124",
@@ -59,8 +60,8 @@
       "primary_image": "https://shadowhunter-94-web.github.io/Fouche_Properties/properties-images/p-000124/1755606115416-0-property-7799786-5161596_e.jpg",
       "description": "Nettleton Road, Clifton, boasts the most valuable residential real estate on the African continent. Located at the very end of this road, on the sea-side, is arguably the best piece of land of them all. Private and discreet from the road, the land splays open towards the ocean, effortlessly embracing iconic postcard views.\n\nThe vistas of Clifton''s famed natural beauty are unspoilt from this unique location: Table Mountain nature reserve, the Twelve Apostles, Clifton''s rocky outcrops and white, sandy beaches and of course the deep blue azure of the Atlantic Ocean.\n\nA rare opportunity to acquire the finest plot on which to build your dream home.\n\nApproved Plans for a circa 1,500sqm house by Architect Jenny Mills.\n\nPHOTOGRAPHS DEPICT ACTUAL VIEW.\n\nRegistered with the PPRA",
       "agent_name": "Adrien Epstein",
-      "agent_phone": "+27834555661",
-      "agent_email": "Adrien@dgproperties.co.za",
+      "agent_phone": "+27835817124",
+      "agent_email": "ahmed@ixloo.co.za",
       "price_num": 200000000,
       "cover_image": "https://shadowhunter-94-web.github.io/Fouche_Properties/properties-images/p-000124/1755606115416-0-property-7799786-5161596_e.jpg"
     },
@@ -92,12 +93,12 @@
       "primary_image": "https://shadowhunter-94-web.github.io/Fouche_Properties/properties-images/p-000125/1755606417097-1-property-9005309-32061902_dhd.jpg",
       "description": "Introducing an unparalleled opportunity in the world of luxury real estate. Situated at arguably the best address on the African continent, Nettleton Road offers views that sweep from the Twelve Apostle Mountain Range to all four Clifton Beaches. This prestigious location is home to captains of industry and some of the most luxurious designer homes in South Africa.\n\nThis exceptional parcel of land encompasses a breathtaking expanse of 3812m, with approximately 950m per site. Each site may be acquired individually or combined to create expansive estates of grandeur.\n\nSetting a new standard, these sites are accompanied by unprecedented relaxed title deed restrictions, unlocking a total buildable area of 6208m (approximately 1552m per site). The development is already poised to redefine opulence with meticulously crafted concept plans by the award-winning Malan Vorster Architecture, Interior Design, heralding the arrival of South Africa''s most coveted penthouse enclave.\n\nElevating exclusivity to an art form, this enclave will feature 12 bespoke masterpieces, each a unique expression of architectural brilliance. For those seeking to craft their own vision of luxury, individual sites are available, now boasting an expanded allowable build area of at least 1552m.\n\nThe views from this vantage point are beyond compare, a panorama of unrivalled beauty that defies valuation. This lifestyle transcends the ordinary, embodying the epitome of aspiration. Nettleton Road remains the most sought-after road on the African continent.\n\nThe site consists of four vacant erven, see prices per erf below:\n\nErf 266/1 R70M (Inc Vat) - Sold\n\nErf 266/2 R65M (Inc Vat) - Sold\n\nErf 274/1 R60M (Inc Vat) - Sold\n\nErf 274/2 R50M (Inc Vat) - Sold\n\nTHIS ASKING PRICE IS INCLUSIVE OF 15% VAT AND THEREFOR NO TRANSFER DUTY PAYABLE.",
       "agent_name": "Annette Hepburn",
-      "agent_phone": "+27826581116",
-      "agent_email": "AnnetteH@pamgolding.co.za",
+      "agent_phone": "+27835817124",
+      "agent_email": "ahmed@ixloo.co.za",
       "price_num": 195000000,
       "cover_image": "https://shadowhunter-94-web.github.io/Fouche_Properties/properties-images/p-000125/1755606417097-1-property-9005309-32061902_dhd.jpg"
     }
   ],
   "count": 3,
-  "updated_at": "2025-08-19T12:30:34.817Z"
+  "updated_at": "2025-08-19T13:11:48.512Z"
 }
