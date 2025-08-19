@@ -12,13 +12,9 @@
       "garages": 2,
       "floor_area_m2": 280,
       "erf_size_m2": 980,
-      "address_line1": "12 Lakefield Ave",
       "suburb": "Farrarmere",
       "city": "Benoni",
       "province": "Gauteng",
-      "postal_code": 1501,
-      "lat": -26.1625,
-      "lng": 28.3099,
       "features": [
         "Pool",
         "Flatlet",
@@ -40,7 +36,7 @@
       "id": "P-0001258",
       "title": "Luxury 5 Bedroom Villa Fit for A King",
       "slug": "luxury-5-bedroom-villa-fit-for-a-king-p-0001258",
-      "status": "",
+      "status": "For Sale",
       "property_type": "House",
       "price": 8999999,
       "bedrooms": 5,
@@ -48,13 +44,9 @@
       "garages": 5,
       "floor_area_m2": 520,
       "erf_size_m2": 1059,
-      "address_line1": "",
       "suburb": "",
       "city": "Sandton",
       "province": "Gauteng",
-      "postal_code": "",
-      "lat": "",
-      "lng": "",
       "features": [
         "Jacuzzi",
         "Pool",
@@ -102,8 +94,40 @@
       "agent_email": "Agenta@Agent.co.za",
       "price_num": 8999999,
       "cover_image": "https://drive.google.com/uc?export=download&id=1HgTFy9H7jcgqzkS3MezH3LZLo8Dmjw_D"
+    },
+    {
+      "id": "P-000124",
+      "title": "The Finest land in Clifton",
+      "slug": "the-finest-land-in-clifton-p-000124",
+      "status": "For Sale",
+      "property_type": "Plot",
+      "price": 200000000,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "garages": 0,
+      "floor_area_m2": 0,
+      "erf_size_m2": 1124,
+      "suburb": "Clifton",
+      "city": "Cape Town",
+      "province": "Western Cape",
+      "features": [
+        "Approved Plans",
+        "Architect Jenny Mills"
+      ],
+      "images": [
+        "https://shadowhunter-94-web.github.io/Fouche_Properties/properties-images/p-000124/1755606115416-0-property-7799786-5161596_e.jpg",
+        "https://shadowhunter-94-web.github.io/Fouche_Properties/properties-images/p-000124/1755606115416-1-property-7799786-55586019_dhd.jpg",
+        "https://shadowhunter-94-web.github.io/Fouche_Properties/properties-images/p-000124/1755606115416-2-property-7799786-83993133_e.jpg"
+      ],
+      "primary_image": "https://shadowhunter-94-web.github.io/Fouche_Properties/properties-images/p-000124/1755606115416-0-property-7799786-5161596_e.jpg",
+      "description": "Nettleton Road, Clifton, boasts the most valuable residential real estate on the African continent. Located at the very end of this road, on the sea-side, is arguably the best piece of land of them all. Private and discreet from the road, the land splays open towards the ocean, effortlessly embracing iconic postcard views.\n\nThe vistas of Clifton''s famed natural beauty are unspoilt from this unique location: Table Mountain nature reserve, the Twelve Apostles, Clifton''s rocky outcrops and white, sandy beaches and of course the deep blue azure of the Atlantic Ocean.\n\nA rare opportunity to acquire the finest plot on which to build your dream home.\n\nApproved Plans for a circa 1,500sqm house by Architect Jenny Mills.\n\nPHOTOGRAPHS DEPICT ACTUAL VIEW.\n\nRegistered with the PPRA",
+      "agent_name": "Adrien Epstein",
+      "agent_phone": "+27834555661",
+      "agent_email": "Adrien@dgproperties.co.za",
+      "price_num": 200000000,
+      "cover_image": "https://shadowhunter-94-web.github.io/Fouche_Properties/properties-images/p-000124/1755606115416-0-property-7799786-5161596_e.jpg"
     }
   ],
-  "count": 2,
-  "updated_at": "2025-08-19T10:19:35.691Z"
+  "count": 3,
+  "updated_at": "2025-08-19T12:22:57.895Z"
 }
